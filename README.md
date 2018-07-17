@@ -59,9 +59,9 @@ The database is used together with Ailunce HD1 AdresTool v1.01 KD4Z made by KG5R
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
 <hr>
 <h2 id="german">Neueste UserDB für MD380, MD390 & HD1 mit oder ohne GPS</h2>
-Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert verwendet.
 <b>MD380 & MD390</b>
 </br>
+Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
 </li><li>
