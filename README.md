@@ -1,5 +1,7 @@
 # MD380tools
-![Logo](BM-Logo.jpg)
+<p align="center">
+  <img src="BM-Logo.jpg" width="350" title="hover text">
+</p>
 
 UserDB en KD4Z Tool
 Nieuwste UserDB voor MD380-MD390 met of zonder GPS. Wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI. Download the latest user.bin hier. Vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
