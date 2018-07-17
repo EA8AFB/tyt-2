@@ -12,7 +12,8 @@
 <a href="#helpus">Portuguese</a> -
 <a href="#helpus">Bengali</a> -
 <a href="#helpus">Russian</a> -
-<a href="#helpus">Japanese</a>
+<a href="#helpus">Japanese</a> -
+<a href="#helpus">All others</a>
 <hr>
 <h1 id="dutch">Nieuwste UserDB voor MD380,MD390 & HD1</h1>
 <b>MD380 & MD390</b>
