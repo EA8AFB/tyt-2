@@ -14,7 +14,7 @@ De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI e
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
 </li><li>
-<a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">Database for MD380 & MD390</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">Database voor MD380 & MD390</a>
 </li>
 </br>
 <b>HD1</b>
@@ -23,8 +23,9 @@ De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 KD4Z van KG5
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a>
 </li><li>
-<a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">HD1</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database voor HD1</a>
 </li>
+</br>
 Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
 <h1 id="english">English</h1>
