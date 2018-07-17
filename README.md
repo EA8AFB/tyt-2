@@ -2,11 +2,12 @@
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
-<a href="#dutch">Dutch</a>
-<a href="#test">English</a>
+<a href="#dutch">Dutch</a> - 
+<a href="#english">English</a> - 
 <a href="#german">German</a>
-
-</br></br>
+<hr>
+</br>
+<h1 id="dutch">Dutch</h1>
 <b>MD380 & MD390</b>
 </br>
 De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
@@ -26,7 +27,7 @@ De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 KD4Z van KG5
 </li>
 Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
-<h1 id="test">English</h1>
+<h1 id="english">English</h1>
 Latest UserDB for MD380,MD390 & HD1 with or without GPS. Used together with <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z made by KG5RKI and modified by PD1LOI. Download the latest version of the database here.
 </br></br>
 <li>
@@ -36,6 +37,7 @@ Latest UserDB for MD380,MD390 & HD1 with or without GPS. Used together with <a h
 </li>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
 <hr>
+<h1 id="german">German</h1>
 Neueste UserDB für MD380, MD390 & HD1 mit oder ohne GPS. Wird zusammen mit dem <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z von KG5RKI und von PD1LOI modifiziert verwendet. Laden sie die neuste version von der database hier runter.
 </br></br><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">MD380 & MD390</a>
