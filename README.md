@@ -5,7 +5,6 @@
 Nieuwste UserDB voor MD380,MD390 & HD1 met of zonder GPS. Wordt samen gebruikt met de <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z van KG5RKI en aangepast door PD1LOI. Download de laatste versie van de database hier. 
 </br></br>
 <li>
-https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">MD380 & MD390</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">HD1</a>
