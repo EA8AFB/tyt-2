@@ -1,7 +1,7 @@
 # MD380tools
 
 <p align="center">
-  <img src="BM-Logo.jpg" width="240">
+<img src="BM-Logo.jpg" width="360">
 </p>
 
 UserDB en KD4Z Tool
