@@ -6,14 +6,18 @@ Nieuwste UserDB voor MD380,MD390 & HD1 met of zonder GPS.
 </br></br>
 <b>MD380 & MD390</b>
 </br>
-De database wordt samen gebruikt met de <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z van KG5RKI en aangepast door PD1LOI.
-</br>
-HD1 : De database wordt samen gebruikt met de <a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a> KD4Z van KG5RKI en aangepast door PD1LOI.
-</br></br>
-Download de laatste versie van de database hier.
-</br>
+De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">MD380 & MD390</a>
+<a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
+</li><li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">Database for MD380 & MD390</a>
+</li>
+</br>
+<b>HD1</b>
+</br>
+De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 KD4Z van KG5RKI en aangepast door PD1LOI.
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">HD1</a>
 </li>
