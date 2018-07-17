@@ -1,6 +1,6 @@
 # MD380tools
 <p align="center">
-  <img src="BM-Logo.jpg" width="350" title="hover text">
+  <img src="BM-Logo.jpg" width="240">
 </p>
 
 UserDB en KD4Z Tool
