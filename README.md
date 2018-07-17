@@ -21,7 +21,7 @@
 </br>
 De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">Database voor MD380 & MD390</a>
 </li>
@@ -30,7 +30,7 @@ De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI e
 </br>
 De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 KD4Z van KG5RKI en aangepast door PD1LOI.
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database voor HD1</a>
 </li>
@@ -42,7 +42,7 @@ Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karak
 </br>
 The database is used together with TyteraFlashTool v1.04a KD4Z made by KG5RKI and modified by PD1LOI. 
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/user.bin">Database voor MD380 & MD390</a>
 </li>
