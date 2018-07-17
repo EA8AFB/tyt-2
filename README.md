@@ -1,4 +1,4 @@
-# Latest UserDB for MD380,MD390 & HD1
+# <center>Latest UserDB for MD380,MD390 & HD1
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
