@@ -2,8 +2,6 @@
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
-UserDB en KD4Z Tool
-</br></br>
 Nieuwste UserDB voor MD380,MD390 & HD1 met of zonder GPS. Wordt samen gebruikt met de <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z van KG5RKI en aangepast door PD1LOI. Download the latest datebase hier. 
 </br></br>
 <li>
