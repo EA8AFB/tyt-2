@@ -4,7 +4,18 @@
 </p>
 <a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
-<a href="#german">German</a>
+<a href="#german">German</a> -
+<a href="#helpus">Mandarin Chinese</a> -
+<a href="#helpus">Hindi</a> -
+<a href="#helpus">Spanish</a> -
+<a href="#helpus">Arabic</a> -
+<a href="#helpus">Portuguese</a> -
+<a href="#helpus">Bengali</a> -
+<a href="#helpus">Russian</a> -
+<a href="#helpus">Japanese</a>
+
+
+
 <hr>
 </br>
 <h1 id="dutch">Nieuwste UserDB voor MD380,MD390 & HD1</h1>
@@ -47,6 +58,7 @@ Neueste UserDB für MD380, MD390 & HD1 mit oder ohne GPS. Wird zusammen mit dem 
 </li>
 Fũr MD380-MD390 : Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
 <hr>
+<h1 id="helpus">Sorry we did not find your language</h1>
 </br>
 Your language here ? send me the text pd2emc at outlook.com :)
 
