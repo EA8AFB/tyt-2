@@ -2,7 +2,9 @@
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
-<a href="#test">Test</a>
+<a href="#dutch">Dutch</a>
+<a href="#test">English</a>
+<a href="#german">German</a>
 
 </br></br>
 <b>MD380 & MD390</b>
