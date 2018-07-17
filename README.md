@@ -79,6 +79,7 @@ Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.01 KD4Z von KG5RKI u
 </br>
 Fũr MD380-MD390 : Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
 <hr>
+</br>
 <h1 id="helpus">Sorry we did not find your language</h1>
 </br>
 Your language here ? send me the text pd2emc at outlook.com :)
