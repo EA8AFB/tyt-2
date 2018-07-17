@@ -2,6 +2,7 @@
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
+<center>
 <a href="#dutch">Dutch</a> - 
 <a href="#english">English</a> - 
 <a href="#german">German</a> -
@@ -13,6 +14,7 @@
 <a href="#helpus">Russian</a> -
 <a href="#helpus">Japanese</a> -
 <a href="#helpus">All others</a>
+</center>
 <hr>
 <h1 id="dutch">Nieuwste UserDB voor MD380,MD390 & HD1</h1>
 <b>MD380 & MD390</b>
