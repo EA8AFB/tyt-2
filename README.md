@@ -7,7 +7,7 @@
 <a href="#german">German</a>
 <hr>
 </br>
-<h1 id="dutch">Dutch</h1>
+<h1 id="dutch">Nieuwste UserDB voor MD380,MD390 & HD1</h1>
 <b>MD380 & MD390</b>
 </br>
 De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
@@ -28,7 +28,7 @@ De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 KD4Z van KG5
 </br>
 Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
-<h1 id="english">English</h1>
+<h1 id="english">Latest UserDB for MD380,MD390 & HD1</h1>
 Latest UserDB for MD380,MD390 & HD1 with or without GPS. Used together with <a href="https://github.com/PD1LOI/MD380tools/blob/master/TyteraFlashToolv1.04a-KD4Z.rar">TyteraFlashTool v1.04a</a> KD4Z made by KG5RKI and modified by PD1LOI. Download the latest version of the database here.
 </br></br>
 <li>
