@@ -29,4 +29,3 @@ Neueste UserDB für MD380, MD390 & HD1 mit oder ohne GPS. Wird zusammen mit dem 
 Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
 </br></br><hr>
 
-
