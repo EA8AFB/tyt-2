@@ -10,7 +10,6 @@
 <a href="#helpus">Spanish</a> -
 <a href="#helpus">Arabic</a> -
 <a href="#helpus">Portuguese</a> -
-<a href="#helpus">Bengali</a> -
 <a href="#helpus">Russian</a> -
 <a href="#helpus">Japanese</a> -
 <a href="#helpus">All others</a>
