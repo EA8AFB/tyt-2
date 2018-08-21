@@ -28,7 +28,7 @@ De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI e
 </br>
 <b>HD1</b>
 </br>
-De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.01 aangepast door PD1LOI.
+De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.02 aangepast door PD1LOI.
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool.zip">Ailunce HD1 AdresTool v1.02</a>
 </li><li>
@@ -49,7 +49,7 @@ The database is used together with TyteraFlashTool v1.04a KD4Z made by KG5RKI an
 </br>
 <b>HD1</b>
 </br>
-The database is used together with Ailunce HD1 AdresTool v1.01 modified by PD1LOI.
+The database is used together with Ailunce HD1 AdresTool v1.02 modified by PD1LOI.
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool.zip">Ailunce HD1 AdresTool v1.02</a>
 </li><li>
@@ -70,7 +70,7 @@ Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und vo
 </br>
 <b>HD1</b>
 </br>
-Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.01 von PD1LOI modifiziert verwendet.
+Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.02 von PD1LOI modifiziert verwendet.
 <li>
 <a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool.zip">Ailunce HD1 AdresTool v1.02</a>
 </li><li>
