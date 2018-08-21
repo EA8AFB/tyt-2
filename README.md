@@ -72,7 +72,7 @@ Die database wird zusammen mit dem TyteraFlashTool v1.04a KD4Z von KG5RKI und vo
 </br>
 Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.01 von PD1LOI modifiziert verwendet.
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/raw/master/Ailunce%20HD1-AdresTool-v%201.01.zip">Ailunce HD1 AdresTool v1.01</a>
+<a href="https://github.com/PD1LOI/MD380tools/blob/master/Ailunce%20HD1-AdresTool.zip">Ailunce HD1 AdresTool v1.02</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database for HD1</a>
 </li>
