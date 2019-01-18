@@ -16,7 +16,7 @@
 <a href="#helpus">All others</a>
 </center>
 <hr>
-<h2 id="dutch">Nieuwste UserDB voor MD380,MD390 & HD1 met of zonder GPS</h2>
+<h2 id="dutch">Nieuwste UserDB voor MD380,MD390,HD1 & Anytone met of zonder GPS</h2>
 <b>MD380 & MD390</b>
 </br>
 De database wordt samen gebruikt met de TyteraFlashTool v1.04a KD4Z van KG5RKI en aangepast door PD1LOI.
