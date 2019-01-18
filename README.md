@@ -35,6 +35,13 @@ De database wordt samen gebruikt met de Ailunce HD1 AdresTool v1.02 aangepast do
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database voor HD1</a>
 </li>
 </br>
+De database wordt samen gebruikt met de Anytone AdresTool v1.00 aangepast door PD1LOI.
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/">not yet</a>
+</li><li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/userat.csv">Database voor Anytone</a>
+</li>
+</br>
 Voor MD380-MD390 : Als je zelf de database aanpast vergeet niet het aantal karakers in te vullen op de eerste regel. Voorbeeld onderop de tab van notepad++ te zien. Voorbeeld Lengte: 4,275,525 vul dit getal in op de eerste regel zonder komma's dus zo 4275525.
 <hr>
 <h2 id="english">Latest UserDB for MD380, MD390, HD1 & Anytone with or without GPS</h2>
@@ -56,6 +63,13 @@ The database is used together with Ailunce HD1 AdresTool v1.02 modified by PD1LO
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database for HD1</a>
 </li>
 </br>
+The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/">not yet</a>
+</li><li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/userat.csv">Database for Anytone</a>
+</li>
+</br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
 <hr>
 <h2 id="german">Neueste UserDB für MD380, MD390, HD1 & Anytone mit oder ohne GPS</h2>
@@ -75,6 +89,13 @@ Die database wird zusammen mit dem Ailunce HD1 AdresTool v1.02 von PD1LOI modifi
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/Ailunce%20HD1-AdresTool.zip">Ailunce HD1 AdresTool v1.02</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userhd.csv">Database für HD1</a>
+</li>
+</br>
+Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifiziert verwendet.
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/">not yet</a>
+</li><li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/userat.csv">Database für Anytone</a>
 </li>
 </br>
 Fũr MD380-MD390 : Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
