@@ -1,4 +1,4 @@
-# Latest UserDB for MD380, MD390, HD1 & Anytone
+# Latest UserDB for MD380, MD390, HD1 & Anytone & MD-2017.
 <p align="center">
 <img src="BM-Logo.jpg" width="360">
 </p>
