@@ -74,6 +74,12 @@ The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userat.csv">Database for Anytone</a>
 </li>
 </br>
+<b>MD-2017</b>
+</br>
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/usermd2017.csv">Database voor TYT MD-2017</a>
+</li>
+</br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
 <hr>
 <h2 id="german">Neueste UserDB für MD380, MD390, HD1 & Anytone mit oder ohne GPS</h2>
