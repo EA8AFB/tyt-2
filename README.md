@@ -83,7 +83,7 @@ The database is used together with Anytone AdresTool v1.00 modified by PD1LOI.
 <b>MD-2017</b>
 </br>
 <li>
-<a href="https://github.com/PD1LOI/MD380tools/raw/master/usermd2017.csv">Database voor TYT MD-2017</a>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/usermd2017.csv">Database for TYT MD-2017</a>
 </li>
 </br>
 For MD380-MD390 : If you edit the database by yourself do not forget to fill in the number of characters on the first line. Preview at the bottom of Notepad tab. Example Length: 4,275,525 Enter this number on the first line without commas thus 4275525.
@@ -114,6 +114,12 @@ Die database wird zusammen mit dem Anytone AdresTool v1.00 von PD1LOI modifizier
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/Anytone%20AdresTool%20v%201.00.rar">Anytone AdresTool v 1.00</a>
 </li><li>
 <a href="https://github.com/PD1LOI/MD380tools/raw/master/userat.csv">Database für Anytone</a>
+</li>
+</br>
+<b>TYT MD-2017</b>
+</br>
+<li>
+<a href="https://github.com/PD1LOI/MD380tools/raw/master/usermd2017.csv">Database für TYT MD-2017</a>
 </li>
 </br>
 Fũr MD380-MD390 : Wenn sie die database selbst anpassen vergessen Sie nicht, die Anzahl der Zeichen in der ersten Zeile einzugeben. Vorschau am unteren Rand des Notizblock. Beispiel Länge: 4.275.525 Geben Sie diese Zahl in der ersten Zeile ohne Kommas ein, also 4275525.
